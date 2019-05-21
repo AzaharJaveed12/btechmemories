@@ -1,0 +1,14 @@
+{
+  "name": "ourbtechlife",
+  "version": "1.0.0",
+  "description": "this project contains the memories we made in BTech",
+  "main": "memories.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.0"
+  }
+}
